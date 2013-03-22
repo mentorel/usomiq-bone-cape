@@ -32,7 +32,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 
 [Document1]
-DocumentPath=scheme\bone_capes.SchDoc
+DocumentPath=pcb\usomiq-bone-cape.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -48,7 +48,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=scheme\peripherals.SchDoc
+DocumentPath=scheme\bone_capes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=scheme\usomiq.SchDoc
+DocumentPath=scheme\peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document4]
-DocumentPath=lib\usomiq-base.PcbLib
+DocumentPath=scheme\usomiq.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -96,6 +96,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document5]
+DocumentPath=lib\usomiq-base.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document6]
 DocumentPath=lib\usomiq-base.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
