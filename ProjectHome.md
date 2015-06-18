@@ -1,0 +1,2 @@
+uSomIQ is a system on module on TI Sitara AM335x microprocessors. BeagleBone is a low-cost credit-card-sized Linux computer that connects with the Internet and runs software such as Android 4.0 and Ubuntu. usomiq-bone-cape with installed uSomIQ SOM replicates the BeagleBone rev.A6A.
+This projects contains a full set of library and schematic files along with a PCB file. Feel free to clone this board and manufacture your own ones for the uSomIQ modules!
